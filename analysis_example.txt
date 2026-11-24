@@ -1,0 +1,16 @@
+1) Dataset / data source:
+   OpenML diabetes (same family of data as in the tutorial).
+
+2) What did you import / use?
+   pandas; matplotlib.pyplot as plt; (optional) seaborn as sns.
+
+3) Which variables are on the graph?
+   x = Glucose, y = BMI; points colored by Diabetes (positive / negative).
+
+4) Which plotting functions did you use (and why they help)?
+   plt.scatter(..., c=...) to separate outcomes by color; plt.xlabel / plt.ylabel for clear axes;
+   optional sns.regplot to show a trend line.
+
+5) Graph analysis (max 2 lines):
+   Higher Glucose often appears with higher BMI, especially among positives.
+   The two outcome groups overlap, but positives tend to sit further up/right.

@@ -1,0 +1,16 @@
+# Fill in each section. Keep "Graph analysis" to at most 2 lines.
+
+1) Dataset / data source:
+   (e.g. OpenML diabetes, sklearn iris, Kaggle …)
+
+2) What did you import / use?
+   (e.g. pandas, matplotlib.pyplot, seaborn, sklearn.datasets …)
+
+3) Which variables are on the graph?
+   (e.g. x = Glucose, y = BMI, color = Diabetes outcome)
+
+4) Which plotting functions did you use (and why they help)?
+   (e.g. plt.scatter with c= for groups; plt.xlabel/ylabel; sns.regplot for a trend line)
+
+5) Graph analysis (max 2 lines):
+   (short reading of what the figure shows — correlation / separation / pattern)
